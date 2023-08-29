@@ -1,4 +1,4 @@
-package com.example.musicplayerver01;
+package com.example.musicplayerver01.Model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
